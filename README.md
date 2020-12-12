@@ -1,16 +1,18 @@
-### Hi there 👋
+	标题监修中
+<!-- <p align="center"><font size="5">Sukazyo</font><br/>
+<font size="2">on</font><br/>
+<font size="5">Sukazyo Workshop</font></p> -->
 
-<!--
-**Eyre-S/Eyre-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Eyre-S&show_icons=true&count_private=true" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyre-S&layout=compact" /></p>
+<p align="center"><code>javascript 有因 pages theme fork 而产生的误差</code></p><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+	项目列表监修中
+
+<br/>
+
+	更多内容监修中
