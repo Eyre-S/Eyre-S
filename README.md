@@ -6,8 +6,8 @@
 <br/>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Eyre-S&show_icons=true&count_private=true" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyre-S&layout=compact" /></p>
-<p align="center"><code>javascript 有因 pages theme fork 而产生的误差</code></p><br/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyre-S&layout=compact&card_width=445" /></p>
+<p align="center"><code>似乎有 github 的缓存问题</code></p><br/>
 
 <br/>
 
