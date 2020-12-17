@@ -11,7 +11,22 @@
 
 <br/>
 
-	项目列表监修中
+### 活跃项目列表
+
+Web 类
+- [Private][ws-services](https://github.com/Eyre-S/ws-services)
+- [Cacao Note](https://github.com/Eyre-S/Cacao-Note)
+
+独立 Java 项目
+- [System iCee](https://github.com/Eyre-S/System-iCee)
+- [ResourceTools](https://github.com/Eyre-S/ResourceTools)
+
+Minecraft Mod
+- [Quantum Mod](https://github.com/Timicasto/Quantum-Mod) ([mirror](https://vc.lama3l9r.net/Timicasto/Quantum-Mod))
+- [Creature Alchemy](https://github.com/Eyre-S/CreatureAlchemy)
+
+杂项
+- [Untitled](https://github.com/Eyre-S/Untitled)
 
 <br/>
 
