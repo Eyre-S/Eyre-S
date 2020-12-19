@@ -20,7 +20,7 @@ Web 类
 独立 Java 项目
 - [System iCee](https://github.com/Eyre-S/System-iCee)
 - [ResourceTools](https://github.com/Eyre-S/ResourceTools)
-- [Maxel Black](https://github.com/maxelblack)/[psh](https://github.com/maxelblack/psh)
+- [psh](https://github.com/Eyre-S/psh) >> [Maxel Black](https://github.com/maxelblack)/[psh](https://github.com/maxelblack/psh)
 
 Minecraft Mod
 - [Timicasto](https://github.com/Timicasto)/[Quantum Mod](https://github.com/Timicasto/Quantum-Mod) ([mirror](https://vc.lama3l9r.net/Timicasto/Quantum-Mod))
