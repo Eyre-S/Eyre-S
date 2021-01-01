@@ -23,7 +23,7 @@ Web 项目
 - [psh](https://github.com/Eyre-S/psh) >> [Maxel Black](https://github.com/maxelblack)/[psh](https://github.com/maxelblack/psh)
 
 Minecraft Mod
-- [Timicasto](https://github.com/Timicasto)/[Quantum Mod](https://github.com/Timicasto/Quantum-Mod) ([mirror](https://vc.lama3l9r.net/Timicasto/Quantum-Mod))
+- [Timicasto](https://github.com/Timicasto)/[Quantum Mod](https://github.com/Timicasto/Quantum-Mod) || [LamaVC](https://vc.lama3l9r.net/)::[Timicasto](https://vc.lama3l9r.net/Timicasto)/[QuantumMod](https://vc.lama3l9r.net/Timicasto/Quantum-Mod)
 - [Creature Alchemy](https://github.com/Eyre-S/CreatureAlchemy)
 
 杂项
@@ -32,7 +32,7 @@ Minecraft Mod
 ### 计划中项目列表
 
 独立 Java 项目
-- LamaVC::lama/JosephBot
+- [LamaVC](https://vc.lama3l9r.net/)::[lama](https://vc.lama3l9r.net/lama)/JosephBot
 
 Web 项目
 - MiiT Public PassPort
