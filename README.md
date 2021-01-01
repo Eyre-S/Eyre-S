@@ -13,7 +13,7 @@
 
 ### 活跃项目列表
 
-Web 类
+Web 项目
 - [Private][ws-services](https://github.com/Eyre-S/ws-services)
 - [Cacao Note](https://github.com/Eyre-S/Cacao-Note)
 
@@ -28,6 +28,14 @@ Minecraft Mod
 
 杂项
 - [Untitled](https://github.com/Eyre-S/Untitled)
+
+### 计划中项目列表
+
+独立 Java 项目
+- LamaVC::lama/JosephBot
+
+Web 项目
+- MiiT Public PassPort
 
 <br/>
 
