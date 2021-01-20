@@ -3,6 +3,8 @@
 <font size="2">on</font><br/>
 <font size="5">Sukazyo Workshop</font></p> -->
 
+**因为现在 suk 的主站现在的样子十分不堪，所以个人网站栏就先填这里了...**
+
 <br/>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Eyre-S&show_icons=true&count_private=true" /></p>
@@ -31,11 +33,12 @@ Minecraft Mod
 
 ### 计划中项目列表
 
-独立 Java 项目
-- [LamaVC](https://vc.lama3l9r.net/)::[lama](https://vc.lama3l9r.net/lama)/JosephBot
 
 Web 项目
 - MiiT Public PassPort
+
+独立 Java 项目
+- ~~[LamaVC](https://vc.lama3l9r.net/)::[lama](https://vc.lama3l9r.net/lama)/JosephBot~~
 
 <br/>
 
