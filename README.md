@@ -15,13 +15,14 @@
 
 ### 活跃项目列表
 
-Web 项目
+PHP Web 应用程序
 - [Private][ws-services](https://github.com/Eyre-S/ws-services)
+
+Wordpress 主题
 - [Cacao Note](https://github.com/Eyre-S/Cacao-Note)
 
-独立 Java 项目
+Java 应用程序
 - [System iCee](https://github.com/Eyre-S/System-iCee)
-- [ResourceTools](https://github.com/Eyre-S/ResourceTools)
 - [psh](https://github.com/Eyre-S/psh) >> [Maxel Black](https://github.com/maxelblack)/[psh](https://github.com/maxelblack/psh)
 
 Minecraft Mod
@@ -31,14 +32,30 @@ Minecraft Mod
 杂项
 - [Untitled](https://github.com/Eyre-S/Untitled)
 
-### 计划中项目列表
+### 已完成的项目列表
+*即暂时没有新功能计划，只进行维护工作的项目*
 
+Java API
+- [ResourceTools](https://github.com/Eyre-S/ResourceTools)
+
+### 计划中项目列表
 
 Web 项目
 - MiiT Public PassPort
 
-独立 Java 项目
+Java API
+- osu!imgap-api
+
+Java 应用程序
+- osu!imgap-cli
+
+### 仅关注的项目列表
+
+Java 应用程序
 - ~~[LamaVC](https://vc.lama3l9r.net/)::[lama](https://vc.lama3l9r.net/lama)/JosephBot~~
+
+### 死掉的项目列表
+不予列出
 
 <br/>
 
