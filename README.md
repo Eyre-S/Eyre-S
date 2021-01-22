@@ -26,7 +26,7 @@ Java 应用程序
 - [psh](https://github.com/Eyre-S/psh) >> [Maxel Black](https://github.com/maxelblack)/[psh](https://github.com/maxelblack/psh)
 
 Minecraft Mod
-- [Timicasto](https://github.com/Timicasto)/[Quantum Mod](https://github.com/Timicasto/Quantum-Mod) || [LamaVC](https://vc.lama3l9r.net/)::[Timicasto](https://vc.lama3l9r.net/Timicasto)/[QuantumMod](https://vc.lama3l9r.net/Timicasto/Quantum-Mod)
+- [Timicasto](https://github.com/Timicasto)/[Quantum Mod](https://github.com/Timicasto/Quantum-Mod) || [LamaVC](https://vc.lama3l9r.net/)::[pp lama](https://vc.lama3l9r.net/users/lama)/[QuantumMod](https://vc.lama3l9r.net/users/lama/repos/quantum-mod/browse)
 - [Creature Alchemy](https://github.com/Eyre-S/CreatureAlchemy)
 
 杂项
@@ -52,7 +52,7 @@ Java 应用程序
 ### 仅关注的项目列表
 
 Java 应用程序
-- ~~[LamaVC](https://vc.lama3l9r.net/)::[lama](https://vc.lama3l9r.net/lama)/JosephBot~~
+- ~~[LamaVC](https://vc.lama3l9r.net/)::[lama](https://vc.lama3l9r.net/users/lama)/[JosephBot](https://vc.lama3l9r.net/users/lama/repos/josephbot-homebase/browse)~~
 
 ### 死掉的项目列表
 不予列出
