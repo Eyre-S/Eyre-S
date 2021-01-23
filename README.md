@@ -16,7 +16,7 @@
 ### 活跃项目列表
 
 > PHP Web 应用程序
-> - [Private][ws-services](https://github.com/Eyre-S/ws-services)
+> - <img src="https://srv.sukazyo.cc/assets/icon/lock.svg?ver=2">[ws-services](https://github.com/Eyre-S/ws-services)
 > 
 > Wordpress 主题
 > - [Cacao Note](https://github.com/Eyre-S/Cacao-Note)
