@@ -31,7 +31,7 @@
 > 
 > 杂项
 > - [Untitled](https://github.com/Eyre-S/Untitled)
-> - <img src="https://srv.sukazyo.cc/assets/icon/lock.svg?ver=2">某代号[pink-fes]的神秘项目
+> - <img src="https://srv.sukazyo.cc/assets/icon/lock.svg?ver=2">[LamaVC](https://vc.lama3l9r.net/)::[pp lama](https://vc.lama3l9r.net/users/lama)/神秘项目[pink-fes]
 
 ### 已完成的项目列表
 *即暂时没有新功能计划，只进行维护工作的项目*
