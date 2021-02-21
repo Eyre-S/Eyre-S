@@ -26,12 +26,12 @@
 > - [Pd2 CodeWork Center](https://github.com/pd2-works)/[psh](https://github.com/pd2-works/psh)
 > 
 > Minecraft Mod
-> - [Timicasto](https://github.com/Timicasto)/[Quantum Mod](https://github.com/Timicasto/Quantum-Mod) || [LamaVC](https://vc.lama3l9r.net/)::[pp lama](https://vc.lama3l9r.net/users/lama)/[QuantumMod](https://vc.lama3l9r.net/users/lama/repos/quantum-mod/browse)
+> - [Timicasto](https://github.com/Timicasto)/[Quantum Mod](https://github.com/Timicasto/Quantum-Mod) || [LamaVC](https://gitlab.lama3l9r.net/)::[pp lama](https://gitlab.lama3l9r.net/lama)/[QuantumMod](https://gitlab.lama3l9r.net/lama/quantum-mod)
 > - [Creature Alchemy](https://github.com/Eyre-S/CreatureAlchemy)
 > 
 > 杂项
 > - [Untitled](https://github.com/Eyre-S/Untitled)
-> - <img src="https://srv.sukazyo.cc/assets/icon/lock.svg?ver=2">[LamaVC](https://vc.lama3l9r.net/)::[pp lama](https://vc.lama3l9r.net/users/lama)/神秘项目[pink-fes]
+> - <img src="https://srv.sukazyo.cc/assets/icon/lock.svg?ver=2">[LamaVC](https://gitlab.lama3l9r.net/)::[pp lama](https://gitlab.lama3l9r.net/lama)/[osugcs](https://gitlab.lama3l9r.net/lama/osugcs)
 
 ### 已完成的项目列表
 *即暂时没有新功能计划，只进行维护工作的项目*
@@ -42,7 +42,7 @@
 ### 计划中项目列表
 
 > Web 项目
-> - MiiT Public PassPort
+> - MiiT Public PassPort `(这个是最大的饼,yeah)`
 > 
 > Java API
 > - osu!imgap-api
@@ -53,7 +53,7 @@
 ### 仅关注的项目列表
 
 > Java 应用程序
-> - ~~[LamaVC](https://vc.lama3l9r.net/)::[lama](https://vc.lama3l9r.net/users/lama)/[JosephBot](https://vc.lama3l9r.net/users/lama/repos/josephbot-homebase/browse)~~
+> - <img src="https://srv.sukazyo.cc/assets/icon/lock.svg?ver=2">~~[LamaVC](https://gitlab.lama3l9r.net/)::[lama](https://vc.lama3l9r.net/lama)/[JosephBot](https://vc.lama3l9r.net/lama/josephbot-homebase)~~
 
 ### 死掉的项目列表
 
