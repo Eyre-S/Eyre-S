@@ -34,13 +34,15 @@
 > 
 > 杂项
 > - [Untitled](https://github.com/Eyre-S/Untitled)
-> - <img src="https://srv.sukazyo.cc/assets/icon/lock.svg?ver=2">[LamaVC](https://gitlab.lama3l9r.net/)::[pp lama](https://gitlab.lama3l9r.net/lama)/[osugcs](https://gitlab.lama3l9r.net/lama/osugcs)
 
 ### 已完成的项目列表
 *即暂时没有新功能计划，只进行维护工作的项目*
 
 > Java API
 > - [ResourceTools](https://github.com/Eyre-S/ResourceTools)
+> 
+> 杂项
+> - <img src="https://srv.sukazyo.cc/assets/icon/lock.svg?ver=2">[LamaVC](https://gitlab.lama3l9r.net/)::[pp lama](https://gitlab.lama3l9r.net/lama)/[osugcs](https://gitlab.lama3l9r.net/lama/osugcs)
 
 ### 计划中项目列表
 
