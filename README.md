@@ -17,7 +17,7 @@
 
 > PHP Web 应用程序
 > - <img src="https://srv.sukazyo.cc/assets/icon/lock.svg?ver=2">[ws-services](https://github.com/Eyre-S/ws-services)
-> - [ph-Bookshelf](https://github.com/Eyre-S/ws-services)
+> - [ph-Bookshelf](https://github.com/Eyre-S/ph-Bookshelf)
 > 
 > Wordpress 主题
 > - [Cacao Note](https://github.com/Eyre-S/Cacao-Note)
