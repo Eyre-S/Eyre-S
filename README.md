@@ -17,6 +17,7 @@
 
 > PHP Web 应用程序
 > - <img src="https://srv.sukazyo.cc/assets/icon/lock.svg?ver=2">[ws-services](https://github.com/Eyre-S/ws-services)
+> - [ph-Bookshelf](https://github.com/Eyre-S/ws-services)
 > 
 > Wordpress 主题
 > - [Cacao Note](https://github.com/Eyre-S/Cacao-Note)
@@ -38,9 +39,6 @@
 ### 已完成的项目列表
 *即暂时没有新功能计划，只进行维护工作的项目*
 
-> Java API
-> - [ResourceTools](https://github.com/Eyre-S/ResourceTools)
-> 
 > 杂项
 > - <img src="https://srv.sukazyo.cc/assets/icon/lock.svg?ver=2">[LamaVC](https://gitlab.lama3l9r.net/)::[pp lama](https://gitlab.lama3l9r.net/lama)/[osugcs](https://gitlab.lama3l9r.net/lama/osugcs)
 
@@ -51,6 +49,7 @@
 > 
 > Java API
 > - osu!imgap-api
+> - [ResourceTools](https://github.com/Eyre-S/ResourceTools)（预计改版）
 > 
 > Java 应用程序
 > - osu!imgap-cli
