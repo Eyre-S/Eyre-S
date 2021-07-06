@@ -12,6 +12,7 @@
 <div align="center">
 	
 ![](https://github-readme-stats.vercel.app/api?username=Eyre-S&show_icons=true&count_private=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eyre-S&layout=compact&card_width=445)
 	
 </div>
@@ -55,12 +56,12 @@
 > - [Timicasto](https://github.com/Timicasto)/[Quantum Mod](https://github.com/Timicasto/Quantum-Mod) || [LamaVC](https://gitlab.lama3l9r.net/)::[pp lama](https://gitlab.lama3l9r.net/lama)/[QuantumMod](https://gitlab.lama3l9r.net/lama/quantum-mod)`(项目近况未知，可能已经过期了)`
 > 
 > Java API
+> - pixelva`(可能会有...说不定会有..吧)`
 > - osu!imgap-api
 > - [ResourceTools](https://github.com/Eyre-S/ResourceTools)`(预计改版)`
 > 
 > Java 应用程序
 > - osu!imgap-cli
-> - pixelva`(可能会有...说不定会有..吧)`
 
 ### 仅关注的项目列表
 
