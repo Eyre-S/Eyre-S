@@ -3,13 +3,18 @@
 <font size="2">on</font><br/>
 <font size="5">Sukazyo Workshop</font></p> -->
 
-**因为现在 suk 的主站现在的样子十分不堪，所以个人网站栏就先填这里了...**
+**因为目前还没有什么自己做的好的个人页面，所以一些地方的个人网站链接就先填这里了...**
+
+*最近好像水代码越来越少了...*
 
 <br/>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Eyre-S&show_icons=true&count_private=true" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyre-S&layout=compact&card_width=445" /></p>
-<p align="center"><code>似乎有 github 的缓存问题</code></p><br/>
+<div align="center">
+	
+![](https://github-readme-stats.vercel.app/api?username=Eyre-S&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eyre-S&layout=compact&card_width=445)
+	
+</div>
 
 <br/>
 
@@ -30,7 +35,6 @@
 > - [SS-Tool-Box](https://github.com/Eyre-S/SS-Tool-Box) >> [Stapx Steve](https://github.com/Stapxs)/[SS-Tool-Box](https://github.com/Stapxs/SS-Tool-Box)
 > 
 > Minecraft Mod
-> - [Timicasto](https://github.com/Timicasto)/[Quantum Mod](https://github.com/Timicasto/Quantum-Mod) || [LamaVC](https://gitlab.lama3l9r.net/)::[pp lama](https://gitlab.lama3l9r.net/lama)/[QuantumMod](https://gitlab.lama3l9r.net/lama/quantum-mod)
 > - [Creature Alchemy](https://github.com/Eyre-S/CreatureAlchemy)
 > 
 > 杂项
@@ -47,12 +51,16 @@
 > Web 项目
 > - MiiT Public PassPort `(这个是最大的饼,yeah)`
 > 
+> Minecraft Mod
+> - [Timicasto](https://github.com/Timicasto)/[Quantum Mod](https://github.com/Timicasto/Quantum-Mod) || [LamaVC](https://gitlab.lama3l9r.net/)::[pp lama](https://gitlab.lama3l9r.net/lama)/[QuantumMod](https://gitlab.lama3l9r.net/lama/quantum-mod)`(项目近况未知，可能已经过期了)`
+> 
 > Java API
 > - osu!imgap-api
-> - [ResourceTools](https://github.com/Eyre-S/ResourceTools)（预计改版）
+> - [ResourceTools](https://github.com/Eyre-S/ResourceTools)`(预计改版)`
 > 
 > Java 应用程序
 > - osu!imgap-cli
+> - pixelva`(可能会有...说不定会有..吧)`
 
 ### 仅关注的项目列表
 
