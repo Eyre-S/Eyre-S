@@ -23,13 +23,13 @@
 
 > PHP Web 应用程序
 > - <img src="https://srv.sukazyo.cc/assets/icon/lock.svg?ver=2">[ws-services](https://github.com/Eyre-S/ws-services)
-> - [ph-Bookshelf](https://github.com/Eyre-S/ph-Bookshelf)
+> - [ph-Bookshelf](https://github.com/Eyre-S/ph-Bookshelf) >> [Sukazyo Workshop](https://github.com/suk-ws)/[ph-Bookshelf](https://https://github.com/suk-ws/ph-Bookshelf)
 > 
 > Wordpress 主题
 > - [Cacao Note](https://github.com/Eyre-S/Cacao-Note)
 > 
 > Java 应用程序
-> - [System iCee](https://github.com/Eyre-S/System-iCee)
+> - [System iCee](https://github.com/Eyre-S/System-iCee) >> [Sukazyo Workshop](https://github.com/suk-ws)/[System iCee](https://https://github.com/suk-ws/System-iCee)
 > - [Pd2 CodeWork Center](https://github.com/pd2-works)/[psh](https://github.com/pd2-works/psh)
 > 
 > C# 应用程序
@@ -40,6 +40,7 @@
 > 
 > 杂项
 > - [Untitled](https://github.com/Eyre-S/Untitled)
+> - [Sukazyo Workshop](https://github.com/suk-ws)/[hytrans](https://https://github.com/suk-ws/hytrans)
 
 ### 已完成的项目列表
 *即暂时没有新功能计划，只进行维护工作的项目*
