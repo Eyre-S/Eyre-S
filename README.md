@@ -23,13 +23,13 @@
 
 > PHP Web 应用程序
 > - <img src="https://srv.sukazyo.cc/assets/icon/lock.svg?ver=2">[ws-services](https://github.com/Eyre-S/ws-services)
-> - [ph-Bookshelf](https://github.com/Eyre-S/ph-Bookshelf) >> [Sukazyo Workshop](https://github.com/suk-ws)/[ph-Bookshelf](https://https://github.com/suk-ws/ph-Bookshelf)
+> - [ph-Bookshelf](https://github.com/Eyre-S/ph-Bookshelf) >> [Sukazyo Workshop](https://github.com/suk-ws)/[ph-Bookshelf](https://github.com/suk-ws/ph-Bookshelf)
 > 
 > Wordpress 主题
 > - [Cacao Note](https://github.com/Eyre-S/Cacao-Note)
 > 
 > Java 应用程序
-> - [System iCee](https://github.com/Eyre-S/System-iCee) >> [Sukazyo Workshop](https://github.com/suk-ws)/[System iCee](https://https://github.com/suk-ws/System-iCee)
+> - [System iCee](https://github.com/Eyre-S/System-iCee) >> [Sukazyo Workshop](https://github.com/suk-ws)/[System iCee](https://github.com/suk-ws/System-iCee)
 > - [Pd2 CodeWork Center](https://github.com/pd2-works)/[psh](https://github.com/pd2-works/psh)
 > 
 > C# 应用程序
@@ -40,7 +40,7 @@
 > 
 > 杂项
 > - [Untitled](https://github.com/Eyre-S/Untitled)
-> - [Sukazyo Workshop](https://github.com/suk-ws)/[hytrans](https://https://github.com/suk-ws/hytrans)
+> - [Sukazyo Workshop](https://github.com/suk-ws)/[hytrans](https://github.com/suk-ws/hytrans)
 
 ### 已完成的项目列表
 *即暂时没有新功能计划，只进行维护工作的项目*
@@ -57,7 +57,7 @@
 > - [Timicasto](https://github.com/Timicasto)/[Quantum Mod](https://github.com/Timicasto/Quantum-Mod) || [LamaVC](https://gitlab.lama3l9r.net/)::[pp lama](https://gitlab.lama3l9r.net/lama)/[QuantumMod](https://gitlab.lama3l9r.net/lama/quantum-mod)`(项目近况未知，可能已经过期了)`
 > 
 > Java API
-> - pixelva`(可能会有...说不定会有..吧)`
+> - [pixelva](https://github.com/Eyre-S/pixelva)`(更新..不一定有时间研究)`
 > - osu!imgap-api
 > - [ResourceTools](https://github.com/Eyre-S/ResourceTools)`(预计改版)`
 > 
