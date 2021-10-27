@@ -1,16 +1,35 @@
-	标题监修中
-<!-- <p align="center"><font size="5">Sukazyo</font><br/>
-<font size="2">on</font><br/>
-<font size="5">Sukazyo Workshop</font></p> -->
+<div align="center">
 
-**因为目前还没有什么自己做的好的个人页面，所以一些地方的个人网站链接就先填这里了...**
+![card-code](./SUKAZYO-card-code@0.75x.png)
 
-*最近好像水代码越来越少了...*
+*6L*<br/>
+*Z6YeM5omA5pyJ55qE77yM5Y*<br/>
+*q5piv5LiA5q616L*<br/>
+*Y5rKh5pyJ5pS*<br/>
+*5byD55qE5qKm*
+
+
+[WS Github][ws-gh] | [~~WS Mainframe~~][ws-host] | [Home][ws-im-group]
+
+[IM Chat][annie-tg] | [Private Networt][annie-network]
+
+[ws-gh]: https://github.com
+[ws-host]: https://sukazyo.cc
+[ws-im-group]: https://discord.sukazyo.cc
+[annie-tg]: https://t.me/Eyre_S
+[annie-network]: https://t.me/annie_prove_ship
 
 <br/>
 
-<div align="center">
-	
+<br/>
+
+---
+
+<br/>
+
+
+<br/>
+
 ![](https://github-readme-stats.vercel.app/api?username=Eyre-S&show_icons=true&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eyre-S&layout=compact&card_width=445)
@@ -74,5 +93,7 @@
 > 不予列出
 
 <br/>
+
+~~据说解出开头的加密信息可以请求奖品o&~&~~
 
 	更多内容监修中
