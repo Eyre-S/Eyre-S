@@ -50,8 +50,9 @@
 [repo-suk-cacao]:     https://github.com/Eyre-S/Cacao-Note
 [repo-suk-pixelva]:   https://github.com/Eyre-S/pixelva
 [repo-suk-sstb]:      https://github.com/Eyre-S/SS-Tool-Box
+[repo-suk-morny]:     https://github.com/Eyre-S/Coeur-Morny-Cono
 [repouser-timi]:      https://github.com/Timicasto
-[repo-timi-qmod]:      https://github.com/Timicasto/Quantum-Mod
+[repo-timi-qmod]:     https://github.com/Timicasto/Quantum-Mod
 [repouser-ws]:        https://github.com/suk-ws
 [repo-ws-icee]:       https://github.com/suk-ws/System-iCee
 [repo-ws-phb]:        https://github.com/suk-ws/ph-Bookshlef
@@ -79,6 +80,7 @@
 > Java 应用程序
 >
 > - [System iCee][repo-suk-icee] >> [Sukazyo Workshop][repouser-ws]/[System iCee][repo-ws-icee]
+> - [Coeur Morny Cono][repo-suk-morny]
 > - [Pd2 CodeWork Center][repouser-pd2]/[psh][repo-pd2-psh]
 >
 > C# 应用程序
