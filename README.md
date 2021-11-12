@@ -9,13 +9,14 @@
 *5byD55qE5qKm*
 
 
-[WS Github][ws-gh] | [~~WS Mainframe~~][ws-host] | [Home][ws-im-group]
+[WS Github][ws-gh] | [-ws-mvn][ws-mvn] | [~~WS Mainframe~~][ws-host] | [Home][ws-im-group]
 
 [IM Chat][annie-tg] | [Private Networt][annie-network]
 
 [ws-gh]: https://github.com
 [ws-host]: https://sukazyo.cc
 [ws-im-group]: https://discord.sukazyo.cc
+[ws-mvn]: https://mvn.sukazyo.cc
 [annie-tg]: https://t.me/Eyre_S
 [annie-network]: https://t.me/annie_prove_ship
 
