@@ -84,6 +84,12 @@
 > - [Coeur Morny Cono][repo-suk-morny]
 > - [Pd2 CodeWork Center][repouser-pd2]/[psh][repo-pd2-psh]
 >
+> Java API
+>
+> - [pixelva][repo-suk-pixelva].canvas
+> - [pixelva][repo-suk-pixelva].colorpane
+> - [ResourceTools][repo-suk-res]`(Coming soon...)`
+>
 > C# 应用程序
 >
 > - [SS-Tool-Box][repo-suk-sstb] >> [Stapx Steve][repouser-ss]/[SS-Tool-Box][repo-ss-sstb]
@@ -110,17 +116,14 @@
 > Web 项目
 >
 > - MiiT Public PassPort `(实在无从下手&..)`
-> - MixedVoidNetwork `(mvn.sukazyo.cc)`
 >
 > Minecraft Mod
 >
 > - [Timicasto][repouser-timi]/[Quantum Mod][repo-timi-qmod] || [LamaVC][lrepo]::[pp lama][lrepouser-lama]/[QuantumMod][lrepo-lama-qmod]`(@Timicasto在重写，但是还没抽出时间去看)`
 >
 > Java API
->
-> - [pixelva][repo-suk-pixelva]`(更新..不一定有时间研究)`
+> 
 > - osu!imgap-api
-> - [ResourceTools][repo-suk-res]`(预计改版)`
 >
 > Java 应用程序
 >
@@ -129,6 +132,10 @@
 
 ### 死掉的项目列表
 
+> Web 项目
+>
+> - MixedVoidNetwork `(mvn.sukazyo.cc，因为感觉没有必要了所以胎死腹中)`
+>
 > Java 应用程序
 >
 > - ![lock-svg][lock-svg]~~[LamaVC][lrepo]::[lama][lrepouser-lama]/[JosephBot][lrepo-lama-jsph]~~`(之前关注过，现在大概是死了)`
