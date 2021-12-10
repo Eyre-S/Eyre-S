@@ -58,6 +58,8 @@
 [repo-ws-icee]:       https://github.com/suk-ws/System-iCee
 [repo-ws-phb]:        https://github.com/suk-ws/ph-Bookshlef
 [repo-ws-hytrans]:    https://github.com/suk-ws/hytrans
+[repo-ws-pixelva]:   https://github.com/suk-ws/pixelva
+[repo-ws-messiva]:   https://github.com/suk-ws/messiva
 [repouser-pd2]:       https://github.com/pd2-works
 [repo-pd2-psh]:       https://github.com/pd2-works/psh
 [repouser-ss]:        https://github.com/Stapxs
@@ -86,8 +88,9 @@
 >
 > Java API
 >
-> - [pixelva][repo-suk-pixelva].canvas
-> - [pixelva][repo-suk-pixelva].colorpane
+> - [pixelva][repo-suk-pixelva].canvas >> [Sukazyo Workshop][repouser-ws]/[pixelva][repo-ws-pixelva].canvas
+> - [pixelva][repo-suk-pixelva].colorpane >> [Sukazyo Workshop][repouser-ws]/[pixelva][repo-ws-pixelva].colorpane
+> - [messiva][repo-ws-messiva]
 > - [ResourceTools][repo-suk-res]`(Coming soon...)`
 >
 > C# 应用程序
