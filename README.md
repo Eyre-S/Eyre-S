@@ -58,8 +58,9 @@
 [repo-ws-icee]:       https://github.com/suk-ws/System-iCee
 [repo-ws-phb]:        https://github.com/suk-ws/ph-Bookshlef
 [repo-ws-hytrans]:    https://github.com/suk-ws/hytrans
-[repo-ws-pixelva]:   https://github.com/suk-ws/pixelva
-[repo-ws-messiva]:   https://github.com/suk-ws/messiva
+[repo-ws-pixelva]:    https://github.com/suk-ws/pixelva
+[repo-ws-messiva]:    https://github.com/suk-ws/messiva
+[repo-ws-ghlm]:       https://github.com/suk-ws/Github-Label-Manager
 [repouser-pd2]:       https://github.com/pd2-works
 [repo-pd2-psh]:       https://github.com/pd2-works/psh
 [repouser-ss]:        https://github.com/Stapxs
@@ -93,9 +94,10 @@
 > - [Sukazyo Workshop][repouser-ws]/[messiva][repo-ws-messiva]
 > - [ResourceTools][repo-suk-res]`(Coming soon...)`
 >
-> C# 应用程序
+> C# 桌面应用程序
 >
 > - [SS-Tool-Box][repo-suk-sstb] >> [Stapx Steve][repouser-ss]/[SS-Tool-Box][repo-ss-sstb]
+> - [Sukazyo Workshop][repouser-ws]/[Github Label Manager][repo-ws-ghlm]
 >
 > Minecraft Mod
 >
