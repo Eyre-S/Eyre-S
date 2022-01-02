@@ -11,7 +11,7 @@
 
 [WS Github][ws-gh] | [-ws-mvn][ws-mvn] | [~~WS Mainframe~~][ws-host] | [Home][ws-im-group]
 
-[IM Chat][annie-tg] | [Private Networt][annie-network]
+[IM Chat][annie-tg] | [Private Networt][annie-network] | [Event(Mail)Box][annie-email]
 
 [ws-gh]: https://github.com
 [ws-host]: https://sukazyo.cc
@@ -19,6 +19,7 @@
 [ws-mvn]: https://mvn.sukazyo.cc
 [annie-tg]: https://t.me/Eyre_S
 [annie-network]: https://t.me/annie_prove_ship
+[annie-email]: mailto:sukazyo@outlook.com
 
 <br/>
 
@@ -86,9 +87,11 @@
 > - [System iCee][repo-suk-icee] >> [Sukazyo Workshop][repouser-ws]/[System iCee][repo-ws-icee]
 > - [Coeur Morny Cono][repo-suk-morny]
 > - [Pd2 CodeWork Center][repouser-pd2]/[psh][repo-pd2-psh]
+> - [Untitled][repo-suk-untitled]‘java.cli `(综合性的 java util 库的命令行端口)`
 >
 > Java API
 >
+> - [Untitled][repo-suk-untitled]‘java `(综合性的 java util 库)`
 > - [pixelva][repo-suk-pixelva].canvas >> [Sukazyo Workshop][repouser-ws]/[pixelva][repo-ws-pixelva].canvas
 > - [pixelva][repo-suk-pixelva].colorpane >> [Sukazyo Workshop][repouser-ws]/[pixelva][repo-ws-pixelva].colorpane
 > - [Sukazyo Workshop][repouser-ws]/[messiva][repo-ws-messiva]
@@ -127,7 +130,7 @@
 > - [Timicasto][repouser-timi]/[Quantum Mod][repo-timi-qmod] || [LamaVC][lrepo]::[pp lama][lrepouser-lama]/[QuantumMod][lrepo-lama-qmod]`(@Timicasto在重写，但是还没抽出时间去看)`
 >
 > Java API
-> 
+>
 > - osu!imgap-api
 >
 > Java 应用程序
