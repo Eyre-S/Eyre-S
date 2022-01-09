@@ -13,7 +13,7 @@
 
 [IM Chat][annie-tg] | [Private Networt][annie-network] | [Event(Mail)Box][annie-email]
 
-[ws-gh]: https://github.com
+[ws-gh]: https://github.com/suk-ws
 [ws-host]: https://sukazyo.cc
 [ws-im-group]: https://discord.sukazyo.cc
 [ws-mvn]: https://mvn.sukazyo.cc
@@ -36,6 +36,24 @@
 ![most-used-language](https://github-readme-stats.vercel.app/api/top-langs/?username=Eyre-S&layout=compact&card_width=445)
 
 </div>
+
+<br/>
+
+### About Here
+
+GitHub Instance of A.C.Sukazyo Eyre:
+
+/\*  
+&nbsp;\* All of my code/projects here pushed.  
+&nbsp;\* CI/CD not prepared.  
+&nbsp;\* High integration of private projects and Workshop services.
+
+&nbsp;\* Love documentations, but poor on English.  
+&nbsp;\* Welcome any type of issue/pr/pr... or... i'm welcomed to be bothered?
+
+&nbsp;\* Only do follow someones are coding.  
+&nbsp;\* Java is a plus for followed.  
+&nbsp;\*/
 
 <br/>
 
