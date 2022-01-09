@@ -41,25 +41,35 @@
 
 ### About Here
 
-GitHub Instance of A.C.Sukazyo Eyre:
+GitHub Account Instance of A.C.Sukazyo Eyre<sup>[来源请求]✅</sup>:
 
 /\*  
 &nbsp;\* All of my code/projects here pushed.  
 &nbsp;\* CI/CD not prepared.  
-&nbsp;\* High integration of private projects and Workshop services.
+&nbsp;\* High integration of private projects and Workshop services.🎈
 
 &nbsp;\* Love documentations, but poor on English.  
 &nbsp;\* Welcome any type of issue/pr/pr... or... i'm welcomed to be bothered?
 
 &nbsp;\* Only do follow someones are coding.  
-&nbsp;\* Java is a plus for followed.  
+&nbsp;\* 🎉 Java is a plus for followed.  
+&nbsp;\* Every OOP language is a plus! well, except kt.  
+&nbsp;\* KOTLIN IS A MINUS 🎊.  
+&nbsp;\* Procedural programming will be a minus.  
+&nbsp;\* Well, C++ will not, it is a plus.  
+&nbsp;\* but Python is a huge minus.  
+&nbsp;\* and JavaScript is a HHHUUUUGGGEEE MINUS.  
+&nbsp;\* well.. except frontend develop (for theres also CSS 🪅).
+
+&nbsp;\* HARD TAB BANZAI!  
+&nbsp;\* HARD TAB BANZAI!!  
+&nbsp;\* HARD TAB BANZAI!!!  
+&nbsp;\* HARD TAB BANZAI!!!!  
 &nbsp;\*/
 
 <br/>
 
 ### 活跃项目列表
-
-[lock-svg]: https://srv.sukazyo.cc/assets/icon/lock.svg?ver=2
 
 [repo-suk-icee]:      https://github.com/Eyre-S/System-iCee
 [repo-suk-untitled]:  https://github.com/Eyre-S/Untitled
@@ -93,7 +103,7 @@ GitHub Instance of A.C.Sukazyo Eyre:
 
 > PHP Web 应用程序
 >
-> - ![lock-svg][lock-svg][ws-services][repo-suk-srv]
+> - 🔒[ws-services][repo-suk-srv]
 > - [ph-Bookshelf][repo-suk-phb] >> [Sukazyo Workshop][repouser-ws]/[ph-Bookshelf][repo-ws-phb]
 >
 > Wordpress 主题
@@ -164,8 +174,8 @@ GitHub Instance of A.C.Sukazyo Eyre:
 >
 > Java 应用程序
 >
-> - ![lock-svg][lock-svg]~~[LamaVC][lrepo]::[lama][lrepouser-lama]/[JosephBot][lrepo-lama-jsph]~~`(之前关注过，现在大概是死了)`
-> - ![lock-svg][lock-svg][LamaVC][lrepo]::[pp lama][lrepouser-lama]/[osugcs][lrepo-lama-osugcs]`(曾经帮忙写过的javaweb项目，现在毕竟已经过去使用时间了，不清楚会不会有续用，和lama也没有联系了)`
+> - 🔒~~[LamaVC][lrepo]::[lama][lrepouser-lama]/[JosephBot][lrepo-lama-jsph]~~`(之前关注过，现在大概是死了)`
+> - 🔒[LamaVC][lrepo]::[pp lama][lrepouser-lama]/[osugcs][lrepo-lama-osugcs]`(曾经帮忙写过的javaweb项目，现在毕竟已经过去使用时间了，不清楚会不会有续用，和lama也没有联系了)`
 >
 > ~~没有更多了（确信~~
 
