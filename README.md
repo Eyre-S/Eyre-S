@@ -2,6 +2,8 @@
 
 ![card-code](./SUKAZYO-card-code@0.75x.png)
 
+Somehow the Programmer Girl🐾❣️ &^&
+
 *6L*<br/>
 *Z6YeM5omA5pyJ55qE77yM5Y*<br/>
 *q5piv5LiA5q616L*<br/>
