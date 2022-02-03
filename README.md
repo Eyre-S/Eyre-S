@@ -61,10 +61,10 @@ GitHub Account Instance of A.C.Sukazyo Eyre<sup>[来源请求]✅</sup>:
 &nbsp;\* and JavaScript is a HHHUUUUGGGEEE MINUS.  
 &nbsp;\* well.. except frontend develop (for theres also CSS 🪅).
 
-&nbsp;\* HARD TAB BANZAI!  
-&nbsp;\* HARD TAB BANZAI!!  
-&nbsp;\* HARD TAB BANZAI!!!  
-&nbsp;\* HARD TAB BANZAI!!!!  
+&nbsp;\* HARD TAB YES!  
+&nbsp;\* HARD TAB YES!!  
+&nbsp;\* HARD TAB YES!!!  
+&nbsp;\* HARD TAB YES!!!!  
 &nbsp;\*/
 
 <br/>
