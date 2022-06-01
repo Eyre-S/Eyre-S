@@ -2,16 +2,9 @@
 
 ![card-code](./SUKAZYO-card-code@0.75x.png)
 
-Somehow the Programmer Girl🐾❣️ &^&
+~~吃灰的 GitHub Account，女生自用99新~~
 
-*6L*<br/>
-*Z6YeM5omA5pyJ55qE77yM5Y*<br/>
-*q5piv5LiA5q616L*<br/>
-*Y5rKh5pyJ5pS*<br/>
-*5byD55qE5qKm*
-
-
-[WS Github][ws-gh] | [-ws-mvn][ws-mvn] | [~~WS Mainframe~~][ws-host] | [Home][ws-im-group]
+[WS Github][ws-gh] | [-ws-mvn][ws-mvn] | [~~WS Mainframe~~][ws-host] | [SomeOldParesu][ws-im-group]
 
 [IM Chat][annie-tg] | [Private Networt][annie-network] | [Event(Mail)Box][annie-email]
 
@@ -182,8 +175,5 @@ GitHub Account Instance of A.C.Sukazyo Eyre<sup>[来源请求]✅</sup>:
 > ~~没有更多了（确信~~
 
 <br/>
-
-~~据说解出开头的加密信息可以请求奖品o&~&~~  
-🎉 https://github.com/lijiajunljj
 
 	更多内容监修中
