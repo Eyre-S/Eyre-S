@@ -2,18 +2,20 @@
 
 ![card-code](./SUKAZYO-card-code@0.75x.png)
 
-~~吃灰的 GitHub Account，女生自用99新~~
+另一个积满灰尘的 GitHub Account
 
-[WS Github][ws-gh] | [-ws-mvn][ws-mvn] | [~~WS Mainframe~~][ws-host] | [SomeOldParesu][ws-im-group]
+[Private Storage][ws-storage-eyre-s]
 
-[IM Chat][annie-tg] | [Private Networt][annie-network] | [Event(Mail)Box][annie-email]
+[-ws-releases][ws-mvn] | [WS Github][ws-gh] | [~~WS Mainframe~~][ws-host] | [ws_link][ws-im-group]
+
+[IM Chat][annie-tg] | [Event(Mail)Box][annie-email]
 
 [ws-gh]: https://github.com/suk-ws
 [ws-host]: https://sukazyo.cc
 [ws-im-group]: https://discord.sukazyo.cc
 [ws-mvn]: https://mvn.sukazyo.cc
+[ws-storage-eyre-s]: https://storage.sukazyo.cc/Eyre_S
 [annie-tg]: https://t.me/Eyre_S
-[annie-network]: https://t.me/annie_prove_ship
 [annie-email]: mailto:sukazyo@outlook.com
 
 <br/>
@@ -39,30 +41,28 @@
 GitHub Account Instance of A.C.Sukazyo Eyre<sup>[来源请求]✅</sup>:
 
 /\*  
-&nbsp;\* All of my code/projects here pushed.  
-&nbsp;\* CI/CD not prepared.  
+&nbsp;\* Basicially my code/projects here pushed.  
+&nbsp;\* only Code project here  
+&nbsp;\* <small>other's will exists on <a href='https://storage.sukazyo.cc/Eyre_S'>the storage</a></small>  
+&nbsp;\* CI/CD not built yet.  
 &nbsp;\* High integration of private projects and Workshop services.🎈
 
 &nbsp;\* Love documentations, but poor on English.  
-&nbsp;\* Welcome any type of issue/pr/pr... or... i'm welcomed to be bothered?
+&nbsp;\* Welcome any type of issue/pr/pr... or... bothered?
 
-&nbsp;\* Only do follow someones are coding.  
-&nbsp;\* 🎉 Java is a plus for followed.  
-&nbsp;\* Every OOP language is a plus! well, except kt.  
-&nbsp;\* KOTLIN IS A MINUS 🎊.  
-&nbsp;\* Procedural programming will be a minus.  
-&nbsp;\* Well, C++ will not, it is a plus.  
-&nbsp;\* but Python is a huge minus.  
-&nbsp;\* and JavaScript is a HHHUUUUGGGEEE MINUS.  
-&nbsp;\* well.. except frontend develop (for theres also CSS 🪅).
+&nbsp;\* Only do follow someones are really coding.  
+&nbsp;\* <small>or someones i really loved</small>  
 
-&nbsp;\* HARD TAB YES!  
-&nbsp;\* HARD TAB YES!!  
-&nbsp;\* HARD TAB YES!!!  
-&nbsp;\* HARD TAB YES!!!!  
+&nbsp;\* Hard TAB——  
 &nbsp;\*/
 
 <br/>
+
+### There should be some projects list here
+
+maybe rebuild WIP.
+
+<!--
 
 ### 活跃项目列表
 
