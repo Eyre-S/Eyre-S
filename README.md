@@ -4,12 +4,13 @@
 
 另一个积满灰尘的 GitHub Account
 
-[Private Storage][ws-storage-eyre-s]
+[Private Storage][ws-storage-eyre-s] | [Gists][gist]
 
 [-ws-releases][ws-mvn] | [WS Github][ws-gh] | [~~WS Mainframe~~][ws-host] | [ws_link][ws-im-group]
 
 [IM Chat][annie-tg] | [Event(Mail)Box][annie-email]
 
+[gist]: https://gist.github.com/Eyre-S
 [ws-gh]: https://github.com/suk-ws
 [ws-host]: https://sukazyo.cc
 [ws-im-group]: https://discord.sukazyo.cc
